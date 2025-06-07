@@ -51,7 +51,7 @@ Bu proje hâlen geliştirme aşamasındadır. Aşağıdaki adımlar tamamlanacak
 Bilgisayar Mühendisliği Öğrencisi
 Yapay zeka, görüntü işleme ve sağlıkta derin öğrenme alanlarına ilgi duymaktadır.
 
-📫 İletişim: `rukiye.ilhan@example.com`
+📫 İletişim: `ilhanxrukiye@gmail.com`
 
 ---
 
